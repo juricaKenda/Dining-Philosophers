@@ -3,7 +3,7 @@
 This program represents the classic dining philosophers problem with an extra twist. The dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them.
 The philosophers are sitting at a table and all they can ever do is thing or eat. There is a limited amount of chopsticks (which they need to eat) on the table, and each philosopher has a different number of hands (there is the extra twist).
 Problem is solved using the monitor functions and mutex locks.
-
+![](/Visuals/DiningPhilosophersVisuals.png)
 ## Getting Started
 
 To get started with looking into the code and testing this program simply download the "DiningPhilosophers" file in this repository. Along with that you will also need to download (and perhaps reconfigure) the "testFile.txt" file. See more detailed explanations below.
